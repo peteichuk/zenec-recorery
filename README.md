@@ -11,3 +11,5 @@ Default code - `0000`
 files for SD in folder `for_sd`
 
 files for USB in folder `for_usb`
+
+replied to [video](https://www.youtube.com/watch?v=A6eootQBsCA) on YouTube
